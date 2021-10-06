@@ -21,7 +21,8 @@ const Parent = styled.article`
   align-items: center;
   justify-content: center;
 
-  & :is(.top-row, .bottom-row) {
+  .top-row,
+  .bottom-row {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,7 +33,8 @@ const Parent = styled.article`
   @media screen and (max-width: 1200px) {
     gap: 70px;
 
-    & :is(.top-row, .bottom-row) {
+    .top-row,
+    .bottom-row {
       flex-wrap: nowrap;
     }
   }
@@ -41,7 +43,8 @@ const Parent = styled.article`
     flex-direction: column;
     gap: 75px;
 
-    & :is(.top-row, .bottom-row) {
+    .top-row,
+    .bottom-row {
       flex-wrap: wrap;
       flex-direction: column;
       gap: 75px;
