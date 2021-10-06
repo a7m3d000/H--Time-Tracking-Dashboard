@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.App .app-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+
+.active {
+  color: #fff !important;
+}
+
+@media screen and (max-width: 1200px) {
+  .App {
+    padding: 1.5rem;
+  }
+  
+  .App .app-container {
+    gap: 100px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .App {
+    transform: scale(0.77);
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .App {
+    transform: scale(1);
+    margin: 1.5rem  0;
+  }
+
+  .App .app-container {
+    gap: 75px;
+  }
+}
