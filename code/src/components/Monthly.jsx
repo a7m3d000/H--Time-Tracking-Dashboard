@@ -57,7 +57,7 @@ const Monthly = () => {
     <Parent>
       <div className="top-row">
         <Box
-          top="Mothly"
+          top="Work"
           title="75hrs"
           bottom="Last Month - 78hrs"
           icon={work}

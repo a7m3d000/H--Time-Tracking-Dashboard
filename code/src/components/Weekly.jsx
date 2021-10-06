@@ -58,7 +58,7 @@ const Weekly = () => {
     <Parent>
       <div className="top-row">
         <Box
-          top="Weekly"
+          top="Work"
           title="32hrs"
           bottom="Last Week - 36hrs"
           icon={work}
