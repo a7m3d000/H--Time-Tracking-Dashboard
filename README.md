@@ -1,20 +1,43 @@
-## :clipboard: Basic Info
-   #### :bulb: Project Name: [***Time Tracking Dashboard***](https://a7m3d000.github.io/H--Time-Tracking-Dashboard/)
-   #### :bulb: Project Type: ***Challenge*** from ***Front End Mentor*** Website 
-   #### :bulb: Project Level: ***Heigh*** -> ***[ H ]***
-   
-   #### :bulb: Challenge URL: [***Time Tracking Dashboard***](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw)
+# Time Tracking
 
----
+By this **Time Tracking** You can add blogs in **.md**.
 
-## :clipboard: Basic Languages
- - [x] HTML
- - [x] CSS
- - [x] JavaScript
+-----
 
----
+# Discreption
+This is a [**Markdown Blog**](https://time-tracking-dashboard-seven-zeta.vercel.app/#/) website.
+ 
+-----
 
-## :clipboard: Frameworks
- :pushpin: Frameworks
-   - [x] React
+# App Features
+  - Reponsive
+  - Nice Design with Bootstrap Framework
+  - Speed & Good Performance
 
+-----
+
+# Languages & Technologies
+### Lauages That used in this Web App:
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=ar"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png" width="48" height="48"/></a>
+</div>
+
+### Technolohies that used in this App:
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://reactjs.org/"><img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/></a>
+  <a href="https://sass-lang.com/"><img src="https://static-00.iconduck.com/assets.00/sass-icon-512x512-wrsgqu3t.png" width="48" height="48"/></a>
+</div>
+
+### Other Technolohies & Libs:
+  - [**__react-router__**](https://reactrouter.com/)
+  - [**__reactstrap__**](https://reactstrap.github.io/?path=/story/home-installation--page)
+
+-----
+
+# Web App Screenshot
+![Markdown Blog App Screenshot](https://github.com/ahmedmohmd/markdown-blog/blob/main/app-screenshot.gif?raw=true)
