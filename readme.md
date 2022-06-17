@@ -6,7 +6,7 @@ This is the **Frontend Source Code** for Time Tracking App
 
 # Discreption
 
-[**Markdown Blog**](https://time-tracking-dashboard-seven-zeta.vercel.app/#/) Web App is a Simple App Constructed By React JS.
+[**Markdown Blog**](https://time-tracking-dashboard-seven-zeta.vercel.app/) Web App is a Simple App Constructed By React JS.
 
 ---
 
