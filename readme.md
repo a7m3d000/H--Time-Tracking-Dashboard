@@ -45,4 +45,4 @@ This is the **Frontend Source Code** for Time Tracking App
 
 # App's Screenshot
 
-![Time Tracking Screen Shot](https://github.com/ahmedmohmd/H--Time-Tracking-Dashboard/blob/main/app-screenshott.png?raw=true)
+![Time Tracking Screen Shot](https://github.com/ahmedmohmd/time-tracking-dashboard/blob/main/app-screenshott.png?raw=true)
